@@ -5,9 +5,9 @@ export default defineConfig({
   title: 'Weazet docs',
   description: 'A VitePress Site',
   srcDir: 'src',
-  base: '/weazet-docs/src/dist',
+  base: '/weazet-docs/docs',
   cleanUrls: true,
-  outDir: '../dist',
+  outDir: '../../docs',
   themeConfig: {
     logo: {
       dark: 'https://ik.imagekit.io/79xdah2uoq/logo/weazet_logo_dark_8dGFkGvMD61.png',

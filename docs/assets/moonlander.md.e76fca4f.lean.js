@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,Q as l}from"./chunks/framework.7fedb1ca.js";const b=JSON.parse('{"title":"Moonlander","description":"","frontmatter":{},"headers":[],"relativePath":"moonlander.md","filePath":"moonlander.md"}'),p={name:"moonlander.md"},o=l("",5),e=[o];function t(c,r,i,y,E,d){return a(),n("div",null,e)}const m=s(p,[["render",t]]);export{b as __pageData,m as default};
