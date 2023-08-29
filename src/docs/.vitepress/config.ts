@@ -5,7 +5,7 @@ export default defineConfig({
   title: 'Weazet docs',
   description: 'A VitePress Site',
   srcDir: 'src',
-  base: '/weazet-docs/docs',
+  base: '/weazet-docs/',
   cleanUrls: true,
   outDir: '../../docs',
   themeConfig: {
